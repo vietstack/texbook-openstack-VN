@@ -15,9 +15,12 @@ Chính vì vậy sau thời gian trăn trở, `VietStack` team quyết định k
 - Rewview: `VietStack`
 - Contributor: `Thành viên mong muốn`
 
-## Mục lục
+## Nguyên tắc khi tham gia:
+- Tự do
+- Có thể sử dụng cho các tổ chức khác
+- Không thương mại
 
 ## Cập nhật thông tin dự án
 
 ## Contributor
-- 
+`Danh sách các contributor`
